@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/suket/case_studies/TwitterStreaming/target/scala-2.11/twitterstreaming_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/TwitterDStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/TwitterDStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	twitter4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/twitter4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/TwitterDStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/TwitterDStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/TwitterReceiver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/TwitterReceiver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/TwitterReceiver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/TwitterReceiver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/TwitterReceiver$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/TwitterReceiver$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/suket/TwitterStreaming/TwitterReceiver$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/suket/case_studies/TwitterStreaming/target/scala-2.11/classes/com/suket/TwitterStreaming/TwitterReceiver$$anon$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
